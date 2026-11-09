@@ -6,7 +6,7 @@ permalink: /publication/on-the-perception-bottleneck-of-vlms-for-chart-understan
 year: 2025
 venue: 'Arxiv'
 citation: 'Junteng Liu, Weihao Zeng, Xiwen Zhang, Yijun Wang, Zifei Shan, Junxian He. (2025). &quot;On the Perception Bottleneck of VLMs for Chart Understanding.&quot; <i>Arxiv</i>.'
-excerpt: 'Junteng Liu, Weihao Zeng, Xiwen Zhang, Yijun Wang, Zifei Shan, Junxian He. *Arxiv, 2025.* First author. [Code](https://github.com/hkust-nlp/Vision4Chart).'
+excerpt: 'Junteng Liu, Weihao Zeng, Xiwen Zhang, Yijun Wang, Zifei Shan, Junxian He. *Arxiv, 2025.* First author. GitHub code repository: Vision4Chart.'
 ---
 
 **Authors:** Junteng Liu, Weihao Zeng, Xiwen Zhang, Yijun Wang, Zifei Shan, Junxian He
@@ -15,4 +15,4 @@ excerpt: 'Junteng Liu, Weihao Zeng, Xiwen Zhang, Yijun Wang, Zifei Shan, Junxian
 
 **Role:** First author
 
-**Code:** [hkust-nlp/Vision4Chart](https://github.com/hkust-nlp/Vision4Chart)
+**Code:** GitHub code repository: Vision4Chart
